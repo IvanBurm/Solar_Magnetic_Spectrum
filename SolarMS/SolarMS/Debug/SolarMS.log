@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\иван\documents\visual studio 2015\projects\solarmagneticspectrum\solarms\solarms\source.cpp(12): warning C4101: j: неиспользованная локальная переменная
+c:\users\иван\documents\visual studio 2015\projects\solarmagneticspectrum\solarms\solarms\source.cpp(12): warning C4101: i: неиспользованная локальная переменная
+  SolarMS.vcxproj -> C:\Users\Иван\Documents\Visual Studio 2015\Projects\SolarMagneticSpectrum\SolarMS\Debug\SolarMS.exe
+  SolarMS.vcxproj -> C:\Users\Иван\Documents\Visual Studio 2015\Projects\SolarMagneticSpectrum\SolarMS\Debug\SolarMS.pdb (Partial PDB)
